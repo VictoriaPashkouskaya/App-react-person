@@ -1,7 +1,7 @@
 import React from 'react';
 import styled, { keyframes } from 'styled-components';
 
-
+//animation
 const fadeIn = keyframes`
   from {
     opacity: 0;
@@ -12,7 +12,6 @@ const fadeIn = keyframes`
     transform: translateY(0);
   }
 `;
-
 
 const PersonWrapper = styled.div`
   background-color: #FF1493;
