@@ -16,7 +16,7 @@ const pulseAnimation = keyframes`
   }
 `;
 
-// Стилизуем заголовок
+// h1
 const StyledSectionHeading = styled.h2`
   font-size: 3rem;
   color: #ff1493; // Яркий цвет

@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import styled, { keyframes } from 'styled-components';
 
-// Определяем ключевые кадры для анимации
+//animation 
 const fadeIn = keyframes`
   from {
     opacity: 0;
@@ -13,7 +13,7 @@ const fadeIn = keyframes`
   }
 `;
 
-// Стилизуем компонент Person
+// slyle component Person
 const PersonWrapper = styled.div`
   background-color: #FF1493;
   padding: 20px;
